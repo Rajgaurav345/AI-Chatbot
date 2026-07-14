@@ -4,6 +4,7 @@ from chatbot import chatbot_response
 st.set_page_config(page_title="AI Chatbot")
 
 st.title("🤖 AI Chatbot")
+st.caption("Built with Python, NLTK and Streamlit")
 
 st.write("Ask me something!")
 
